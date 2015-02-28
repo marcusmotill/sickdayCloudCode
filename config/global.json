@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Sickday": {
+            "applicationId": "RzJTYueCw9qRWNWCwsQbHBjvZkmau4PbUco1pY1S", 
+            "masterKey": "ejoeTo6TkJdl8ghqmgAot8GUkBxn9pRcexO9JJVx"
+        }, 
+        "_default": {
+            "link": "Sickday"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.5"
+    }
+}
